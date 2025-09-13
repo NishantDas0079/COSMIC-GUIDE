@@ -41,6 +41,15 @@ Asteroid → Rocky object, mainly in asteroid belt. Example: Vesta.
 
 Comet → Ice + dust, forms tail near Sun. Example: Halley’s Comet.
 
+🔹 Largest in category
+
+Largest Planet: Jupiter (11× Earth’s diameter).
+
+Largest Moon: Ganymede (Jupiter) — bigger than Mercury.
+
+Largest Dwarf Planet: Eris (slightly more massive than Pluto).
+
+
 
 2.2 Stellar Objects
 
@@ -59,6 +68,17 @@ Magnetar → Neutron star with ultra-strong magnetic field (~10¹⁵ Gauss). Exa
 Black Hole → Collapse beyond neutron star limit. Example: Sagittarius A*.
 
 
+🔹 Largest in category
+
+Largest Known Star: UY Scuti (≈ 1700× Sun’s radius).
+
+Most Massive Star: R136a1 (~250 solar masses).
+
+Largest Neutron Star: ~2.35 solar masses (close to collapse).
+
+Largest Known Black Hole: TON 618 (~66 billion solar masses).
+
+
 2.3 Exotic Stellar Phenomena
 
 Supernova → Explosive star death. Example: SN 1987A.
@@ -68,6 +88,15 @@ Hypernova → Extremely energetic supernova.
 Gamma Ray Burst (GRB) → Intense bursts of gamma rays. Example: GRB 080916C.
 
 Pulsar → Rotating neutron star emitting radio beams. Example: Crab Pulsar.
+
+
+🔹 Largest in category
+
+Largest Known Galaxy: IC 1101 (~6 million ly diameter).
+
+Largest Galaxy Cluster: El Gordo.
+
+Largest Known Structure: Hercules–Corona Borealis Great Wall (~10 billion ly across).
 
 
 2.4 Galactic & Cosmic
